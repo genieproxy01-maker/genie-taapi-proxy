@@ -1,6 +1,6 @@
 flask
 requests
-gunicorn
+gunicorn==21.2.0
 google-api-python-client
 google-auth
 google-auth-oauthlib
